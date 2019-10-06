@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">prac2sccm</string>
+    <string name="nombre">TESOEM</string>
+    <string name="btn">SIGUENTE</string>
+    <string name="menu">Bienvenido</string>
+    <string name="tesos">Logito</string>
+    <string name="nacion">Logo Tecnm</string>
+    <string name="tenm1">Nacional</string>
+    <string name="btn2">SIGUENTE</string>
+    <string name="op">Operaciones Básicas</string>
+</resources>
